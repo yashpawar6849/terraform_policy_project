@@ -1,6 +1,6 @@
 # Terraform Policy Project
 
-This repository is now an intermediate-level Terraform project that deploys a static frontend website to AWS.
+Terraform project that deploys a static frontend website to AWS.
 
 ## What is included
 
